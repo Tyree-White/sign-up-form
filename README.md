@@ -1,1 +1,1 @@
-# sign-up-form
+In this project I will be creating a sign up form. I will be mainly using HTML, but some CSS for styling. I may add JavaScript later on down the line. For the most part I will be demonstrating my skills in HTML particularly pertaining to form creation, controls, and client side validation.
