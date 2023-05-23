@@ -33,3 +33,7 @@ body {
     margin: 0;
     font-family: 'Odin';
 }
+
+.content {
+    margin-left: 35vw;
+}
