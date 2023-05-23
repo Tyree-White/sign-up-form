@@ -2,9 +2,11 @@
     font-family: 'Odin';
     src: url(fonts/Norse-Bold.otf);
 }
+
 body {
     margin: 0;
     position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .leaf {
@@ -36,4 +38,10 @@ body {
 
 .content {
     margin-left: 35vw;
+}
+
+.cta {
+    margin: 18vh 15vh 5vh 10vh;
+    font-weight: bold;
+    font-size: 18px;
 }
