@@ -80,3 +80,12 @@ label {
 .left {
     margin-left: 3rem;
 }
+
+.submit {
+    margin: 4vh 0vh 8vh 10vh;
+    color: white;
+    background: #596D48;
+    padding: .5rem 2rem;
+    font-weight: 700;
+    border-radius: .5rem;
+}
