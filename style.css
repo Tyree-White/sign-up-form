@@ -46,4 +46,10 @@ body {
     padding: 18vh 15vh 5vh 10vh;
     font-weight: bold;
     font-size: 18px;
+    margin: 0;
+}
+
+form {
+    padding: 2vh 0vh 4vh 10vh;
+    background: white;
 }
