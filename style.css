@@ -101,3 +101,9 @@ label {
     color: #596D48;
     font-weight: 600;
 }
+
+input:focus {
+    outline: none;
+    border-color: #3882f6;
+    box-shadow: 1px 1px lightgrey;
+}
