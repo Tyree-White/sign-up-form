@@ -10,21 +10,40 @@
   <body>
     <img class="leaf" src="img/photo-1585202900225-6d3ac20a6962.avif" alt="A picture of green leaves.">
     <div class="odin">
-      <img class="odin-pic" src="/odin-lined.png" alt="A picture of the Norse God Odin">
+      <img class="odin-pic" src="img/odin-lined.png" alt="A picture of the Norse God Odin">
       <p>ODIN</p>
     </div>
     <div class="content">
       <p class="cta">This is not a real online service! You know you need something like this in r life to help you realize your deepest dreams. Sign up <em>now</em> to get started. <br><br>You <em>know</em> you want to.</p>
       <form>
         <legend>Let's do this!</legend>
-        <input id="first" name="first" type="text" placeholder="Odin">
-        <input id="last" name="last" type="text" placeholder="Odinson">
+
+        <div>
+          <label for="first">First Name</label>
+          <input id="first" name="first" type="text" placeholder="Odin">
+        </div>
+        <div>
+          <label for="last">Last Name</label>
+          <input id="last" name="last" type="text" placeholder="Odinson">
+        </div>
         <br>
-        <input id="email" name="email" type="email" placeholder="odinodinson@gmail.com">
-        <input type="tel" name="phone" id="phone" placeholder="123-456-7890">
+        <div>
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" placeholder="odinodinson@gmail.com">
+        </div>
+        <div>
+          <label for="phone">Phone Number</label>
+          <input type="tel" name="phone" id="phone" placeholder="123-456-7890">
+        </div>
         <br>
-        <input type="password" name="pw" id="pw" placeholder="********">
-        <input type="password" name="confirm" id="confirm" placeholder="********">
+        <div>
+          <label for="pw">Password</label>
+          <input type="password" name="pw" id="pw" placeholder="********">
+        </div>
+        <div>
+          <label for="confirm">Confirm Password</label>
+          <input type="password" name="confirm" id="confirm" placeholder="********">
+        </div>
       </form>
     </div>
   </body>
