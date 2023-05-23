@@ -30,11 +30,11 @@
             <br>
             <div>
               <label for="email">EMAIL</label>
-              <input id="email" name="email" type="email" placeholder="odinodinson@gmail.com" required>
+              <input id="email" name="email" type="email" placeholder="odinodinson@gmail.com" required pattern^="[A-Z0-9+_.-]+@[A-Z0-9.-]+$">
             </div>
             <div class="left">
               <label for="phone">PHONE NUMBER</label>
-              <input type="tel" name="phone" id="phone" placeholder="123-456-7890" required>
+              <input type="tel" name="phone" id="phone" placeholder="123-456-7890" required pattern^="(\+0?1\s)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$">
             </div>
             <br>
             <div>
