@@ -52,6 +52,7 @@ body {
 .white-bg {
     padding: 2vh 40vh 4vh 10vh;
     background: white;
+    box-shadow: 3px 4px 4px lightgrey;
 }
 
 div input {
