@@ -49,7 +49,7 @@ body {
     margin: 0;
 }
 
-form {
+.white-bg {
     padding: 2vh 40vh 4vh 10vh;
     background: white;
 }
