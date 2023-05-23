@@ -72,3 +72,8 @@ label {
     display: flex;
     flex-wrap: wrap;
 }
+
+.inputs div {
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
