@@ -57,3 +57,13 @@ form {
 div input {
     display: block;
 }
+
+legend {
+    font-size: 18px;
+    font-weight: 550;
+}
+
+label {
+    font-size: 12px;
+    letter-spacing: 1px;
+}
