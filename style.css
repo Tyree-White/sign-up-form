@@ -50,7 +50,7 @@ body {
 }
 
 form {
-    padding: 2vh 0vh 4vh 10vh;
+    padding: 2vh 40vh 4vh 10vh;
     background: white;
 }
 
@@ -66,4 +66,9 @@ legend {
 label {
     font-size: 12px;
     letter-spacing: 1px;
+}
+
+.inputs {
+    display: flex;
+    flex-wrap: wrap;
 }
