@@ -75,5 +75,8 @@ label {
 
 .inputs div {
     margin-top: 1rem;
+}
+
+.left {
     margin-left: 3rem;
 }
