@@ -53,3 +53,7 @@ form {
     padding: 2vh 0vh 4vh 10vh;
     background: white;
 }
+
+div input {
+    display: block;
+}
