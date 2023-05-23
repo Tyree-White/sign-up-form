@@ -43,7 +43,7 @@ body {
 }
 
 .cta {
-    padding: 18vh 15vh 5vh 10vh;
+    padding: 18vh 32vh 5vh 10vh;
     font-weight: bold;
     font-size: 18px;
     margin: 0;
@@ -82,10 +82,19 @@ label {
 }
 
 .submit {
-    margin: 4vh 0vh 8vh 10vh;
+    margin: 4vh 0vh 4vh 10vh;
     color: white;
     background: #596D48;
     padding: .5rem 2rem;
     font-weight: 700;
     border-radius: .5rem;
+}
+
+.login {
+    margin: 0 10vh;
+}
+
+.green {
+    color: #596D48;
+    font-weight: 600;
 }
